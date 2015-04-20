@@ -5,7 +5,7 @@
   Plugin URI: http://www.hzdg.com
   Description: Sends PHP errors to Django Sentry
   Author: Ryan Bagwell
-  Version: 1
+  Version: 1.0.1
   Author URI: http://www.ryanbagwell.com
  */
 
